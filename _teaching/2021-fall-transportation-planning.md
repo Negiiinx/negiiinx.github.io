@@ -1,5 +1,5 @@
 ---
-title: "Transportation Planning"
+title: "Transportation Research and Planning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-transportation-planning
