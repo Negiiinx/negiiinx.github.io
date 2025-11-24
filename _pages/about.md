@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am a graduate student at the University of Southern California, focusing on Analytics, with a background in Artificial Intelligence, Data Science, Machine Learning, and Optimization. Before this, I received my bachelor’s degree from Sharif University of Technology.
+Welcome to my personal website! I am a research assistant at Stanford University, advised by Roxana Daneshjou. My work focuses on AI in healthcare, especially evaluating and improving clinical language models: building pipelines that compare model outputs to real clinical data, detecting hallucinations and omissions, and developing metrics that capture safety, robustness, and alignment with clinical judgment in practice.
 
-My research focuses on developing advanced AI models to solve real-world problems in healthcare and transportation. I have co-authored papers applying process mining, machine learning, and deep learning to improve mortality prediction for ICU patients. Additionally, I have worked on projects utilizing natural language processing (NLP), generative AI, and optimization techniques for applications in transportation, finance, agriculture, and manufacturing.
+Before joining Stanford, I was an AI/ML Scientist at TWG Global Holdings, where I built production LLM-based systems for large-scale document understanding, including PDF parsing, layout-aware table extraction, and ontology-centered analytics for financial workflows. Earlier, I was a research assistant at the University of Southern California, advised by Maryam Pishgar, working with large EHR databases (such as MIMIC and eICU) on machine learning, deep learning, and optimization-based models for clinical prediction and decision support.
 
-I’m proficient in tools such as TensorFlow, PyTorch, scikit-learn, R, SQL, and Gurobi, with expertise in deep learning, large language models (LLMs), statistical analysis, data-driven decision-making, and reinforcement learning.
+My broader interests span deep learning, large language models, reinforcement learning, and data-driven decision-making, with an emphasis on real-world deployment rather than toy benchmarks. I have taught AI, data science, compilers, optimization, and systems-related courses in the California State University system as an Adjunct Professor and enjoy working at the boundary of research and engineering, turning messy data and constraints into robust models and tools that people actually use.
 
-You can explore my [publications](https://negiiinx.github.io/publications/) and [projects](https://negiiinx.github.io/projects/) to learn more about my contributions to AI, optimization, and various applications across industries.
+
+You can explore my [publications](https://negiiinx.github.io/publications/) and [projects](https://negiiinx.github.io/projects/) to learn more about my work.
