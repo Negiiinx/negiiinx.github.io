@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Negin Ashrafi / Personal Website"
 title_separator          : "-"
 name                     : &name "Negin Ashrafi"
-description              : &description "Graduate Student Researcher at USC"
+description              : &description "Research Assistant at Stanford University"
 url                      : https://negiiinx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "negiiinx/negiiinx.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Negin Ashrafi"
   pronouns         : "she/her"
-  bio              : "Graduate Student Researcher"
+  bio              : "Research Assistant"
   uri              : # URL
-  location         : "Los Angeles, California"
-  employer         : "USC"
-  email            : "ashrafin@usc.edu"
+  location         : "Palo Alto, California"
+  employer         : "Stanford University"
+  email            : "ashrafi@stanford.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -80,7 +80,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   under_review:
-    title: 'Under Review Journal Articles'
+    title: 'Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
