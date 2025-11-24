@@ -1,8 +1,8 @@
 ---
 title: "Data-Driven Machine Learning Approaches for Predicting In-Hospital Sepsis Mortality"
-collection: under_review
-category: manuscripts
-date: 2024-04-03
-venue: "arXiv"
-paperurl: 'https://arxiv.org/abs/2408.01612'
+collection: publications
+category: conferences
+date: 2025-01-03
+venue: "Intelligent Computing "
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-92605-1_24'
 ---
