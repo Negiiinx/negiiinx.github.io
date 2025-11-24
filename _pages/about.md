@@ -14,4 +14,4 @@ Before joining Stanford, I was an AI/ML Scientist at TWG Global Holdings, where 
 My broader interests span deep learning, large language models, reinforcement learning, and data-driven decision-making, with an emphasis on real-world deployment rather than toy benchmarks. I have taught AI, data science, compilers, optimization, and systems-related courses in the California State University system as an Adjunct Professor and enjoy working at the boundary of research and engineering, turning messy data and constraints into robust models and tools that people actually use.
 
 
-You can explore my [publications](https://negiiinx.github.io/publications/) and [projects](https://negiiinx.github.io/projects/) to learn more about my work.
+You can explore my [publications](https://negiiinx.github.io/publications/) to learn more about my work.
