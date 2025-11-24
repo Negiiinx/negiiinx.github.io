@@ -1,8 +1,8 @@
 ---
 title: "Advanced Predictive Modeling for Enhanced Mortality Prediction in ICU Stroke Patients Using Clinical Data"
-collection: under_review
+collection: publications
 category: manuscripts
-date: 2024-04-19
-venue: "arXiv"
-paperurl: 'https://arxiv.org/pdf/2407.14211'
+date: 2025-04-19
+venue: "PLoS ONE"
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323441'
 ---
