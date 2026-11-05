@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#1f2328"/>
+  <!-- hat -->
+  <path d="M14 30h36" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M20 29l3.5-12.5c.4-1.4 1.9-2.2 3.3-1.7L32 16.5l5.2-1.7c1.4-.5 2.9.3 3.3 1.7L44 29z" fill="#fff"/>
+  <!-- glasses -->
+  <circle cx="24" cy="41" r="5.5" fill="none" stroke="#fff" stroke-width="3"/>
+  <circle cx="40" cy="41" r="5.5" fill="none" stroke="#fff" stroke-width="3"/>
+  <path d="M29.5 41c1.6-1.6 3.4-1.6 5 0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</svg>
